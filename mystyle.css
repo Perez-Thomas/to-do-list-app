@@ -1,0 +1,85 @@
+body {
+    text-align: center;
+    /*background-color: #3c6dc5; I DONT NEED THIS */
+    background-color: #6495ed;
+    color: lightyellow;
+    font-family: 'Chelsea Market';
+}
+
+h1 {
+    margin: auto;
+    font-size: 16px;
+    font-size: 7.5vw;
+}
+li {
+    color: darkred;
+}
+button {
+    margin-right: 200px;
+    color: white;
+    background: crimson;
+    
+}
+
+#add {
+    background-color: yellow;
+    font-family: 'Chelsea Market';    
+    border: 0px;
+    color: navy;
+    padding: 5px 5px;
+    cursor: pointer;
+    margin-left: auto;
+    margin-right: 5%;
+}
+
+.remove {
+    margin-top: 6px;
+    margin-right: 10px;
+    background-color: coral;
+    float: right;
+    clear: both;
+    padding-right: 20px;
+    border-radius: 25px;
+    width: 60px;
+    height: 20px;
+    border-style: none;
+    font-family: 'Chelsea Market';
+
+}
+
+#wrapper {
+    width: 100p;
+    background-color: hsla(120, 100%, 50%, 0.3);
+    margin-top: 0px;
+    margin-left: 0px;
+    padding-bottom:30px;
+    padding-left: 0px;
+    padding-top:30px;
+    padding-right:0px;
+    border-radius:25px;
+}
+
+ul {
+    list-style: none;
+    text-align:left;
+    line-height:35px;
+    line-width:50%;
+}
+#task {
+    width:75%;
+    height: 30px;
+    margin-left: 15px;
+    margin-right: 20px;
+        
+}
+#todos {
+    font-family: 'Chelsea Market';
+    font-size; 75%;
+    text-align: center;
+    background-color: lightyellow;
+    border-radius: 25px;
+    width: ;
+    margin-left: 5%;
+    margin-right: 5%;
+    
+}
